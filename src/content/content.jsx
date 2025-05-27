@@ -359,7 +359,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É A DRA. THAINARA ANDRADE",
+      miniTag: "QUEM É A DRA. THAINARA ANDRADE - OAB/SP 533.620",
       title: "Minha trajetória",
       subtitle:
         "Transformando burocracias jurídicas em soluções claras e acolhedoras.",
@@ -369,8 +369,8 @@ const content = {
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          Meu escritório nasceu da vontade de transformar processos jurídicos
-          que, muitas vezes, são vistos como longos, burocráticos e
+          Minha jornada profissional nasceu da vontade de transformar processos
+          jurídicos que, muitas vezes, são vistos como longos, burocráticos e
           desgastantes, em soluções claras, rápidas e humanas.
           <br />
         </div>
@@ -378,12 +378,12 @@ const content = {
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Meu escritório nasceu da vontade de transformar processos jurídicos
-          que, muitas vezes, são vistos como longos, burocráticos e
+          Minha jornada profissional nasceu da vontade de transformar processos
+          jurídicos que, muitas vezes, são vistos como longos, burocráticos e
           desgastantes, em soluções claras, rápidas e humanas.
           <br />
           <br />
-          Após anos de experiência na área extrajudicial e no serviço público,
+          Após 9 anos de experiência na área extrajudicial e no serviço público,
           percebi o quanto as pessoas chegam até mim carregando dúvidas, medos e
           inseguranças — seja para regularizar um imóvel, dar entrada em um
           inventário ou enfrentar um divórcio.
